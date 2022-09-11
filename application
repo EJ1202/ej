@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-witch,inital-scale=1">
+        <meta charset="UTF-8">
+        <title>WeHelp 申請</title>
+        <style></style>
+    </head>
+ <body>
+    <header>WeHelp 申請</header>
+    <main>
+        <section class="headline">
+            <div class="col1">兩百字內的個人簡介。</div>
+        </section>
+        <section class="examples">
+            <div class="col1">我是李伊婕，今年6月剛從淡江日文系畢業，在大四準備找工作的時期對於自己未來工作的展望感到迷惘，在各方查詢及了解後，對於成為工程師有了期望與熱忱，非常希望能夠加入 WeHelp，成為網站工程師。</div>
+        </section>
+        <section class="headline">
+            <div class="col1">為了成為軟體工程師，曾做過什麼努力？若有具體專案作品請分享給我們。</div>
+        </section>
+        <section class="examples">
+            <div class="col1">以網路上的資源自學過，澎澎的課程也自行看了許多，日前有去上過產業新尖兵的java課程，但礙於上課時數，實際學習的扎實度及內容有限，希望學習更多軟體知識，增加自己會的技能。</div>
+        </section>
+        <section class="headline">
+            <div class="col1">如果參與這個計畫，會怎麼安排學習時間？</div>
+        </section>
+        <section class="examples">
+            <div class="col1">假如幸運申請通過的話，是規劃以平日10小時左右的課程時間，假日用來複習吸收及適度休息，這樣的方式來上課，想要盡可能保持學習的熱忱跟動力。</div>
+        </section>
+        <section class="headline">
+            <div class="col1">是否有想要加入的軟體公司？為什麼想加入該公司？</div>
+        </section>
+        <section class="examples">
+            <div class="col1">緯創資通。公司規模大，且公司福利好。</div>
+        </section>
+        <section class="headline">
+            <div class="col1">請描述一件你曾經碰到最困難的事情，如何克服？</div>
+        </section>
+        <section class="examples">
+            <div class="col1">目前我人生遇過最難受的是媽媽的病情，太勞累壓力大所導致，我所選擇的方式是盡我所能在課餘期間陪伴他，做家事，陪他運動等，一年多到現在也持續著，所幸病情已好轉許多，我所感受到的難處也得以所化解。我認為我克服困難的方法是，用行動去化解並堅持下去。</div>
+        </section>
+        <section class="headline">
+            <div class="col1">關於這份申請網頁，請分享一個你開發時的技術心得。</div>
+        </section>
+        <section class="examples">
+            <div class="col1">先前接觸的大多是後端程式碼，製作這份申請表花了一些時間了解，但已有一定程度的了解，想再多找找能美化頁面的方法。</div>
+        </section>
+        <section class="headline">
+            <div class="col1">其他想要對我們說的事情？</div>
+        </section>
+        <section class="examples">
+            <div class="col1">我非常渴望能夠錄取，對此有自信能夠自律踏實的學習，希望能給我這個機會能夠申請上，謝謝。</div>
+        </section>
+    </main>
+ </body>   
+</html>
